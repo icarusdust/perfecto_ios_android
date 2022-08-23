@@ -1,6 +1,6 @@
 {
-    "cloudURL": "web-fra.perfectomobile.com",
-    "securityToken": "xxxxxxxxxxxx",
+    "cloudURL": "web-demo-fra.perfectomobile.com",
+    "securityToken": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIzOGY3NGJkZC1iZmZlLTRmZGEtOTViYi04NTYyNDNmMTYyMDQifQ.eyJpYXQiOjE2NTc4NzQ4ODAsImp0aSI6IjY3ZTQyYzI0LTExNzYtNDQ5YS04MmUyLWRiZDUyYWZiNzI3NCIsImlzcyI6Imh0dHBzOi8vYXV0aC5wZXJmZWN0b21vYmlsZS5jb20vYXV0aC9yZWFsbXMvd2ViLWRlbW8tZnJhLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Imh0dHBzOi8vYXV0aC5wZXJmZWN0b21vYmlsZS5jb20vYXV0aC9yZWFsbXMvd2ViLWRlbW8tZnJhLXBlcmZlY3RvbW9iaWxlLWNvbSIsInN1YiI6IjNkNjgyNjI5LTg5NDUtNGIzZS1hNDE4LWIwYzY3NjY1ODMxZiIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJvZmZsaW5lLXRva2VuLWdlbmVyYXRvciIsIm5vbmNlIjoiNzYzN2YxZTYtMWI2Mi00ZWY3LTgxOGYtYWZmNWIxNThlZWVhIiwic2Vzc2lvbl9zdGF0ZSI6IjM2ZDc2MGFkLTJjMDMtNDY1ZS04NGE4LTgwYWMyZjkxOTg3ZiIsInNjb3BlIjoib3BlbmlkIG9mZmxpbmVfYWNjZXNzIn0.atYQMvjniag4ESTdTQWzN7QGvtPUgAPORG9ty5220qE",
     "devices": [
      
           {
@@ -21,8 +21,8 @@
     "projectVersion": "v1.0",
     "tags": [
       "espresso", "plugin"  ],
-    "apkPath": "build/app/outputs/flutter-apk/app-release.apk",
-    "testApkPath": "build/app/outputs/apk/androidTest/debug/app-debug-androidTest.apk",
+    "apkPath": "/home/builder/clone/build/app/outputs/flutter-apk/app-release.apk",
+    "testApkPath": "/home/builder/clone/build/app/outputs/apk/androidTest/debug/app-debug-androidTest.apk",
     "installationDetails" : {"preCleanUp" : "true"},
     "postExecution" : {"uninstall" : "false" },
     "debug": false,
