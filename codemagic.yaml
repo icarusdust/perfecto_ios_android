@@ -27,7 +27,9 @@ workflows:
           cd . && flutter packages pub get
       - name: Build Android Test release
         script: |
-          cd android && ./gradlew assembleAndroidTest
+          cd android 
+          gradle wrapper
+          ./gradlew assembleAndroidTest
       - name: Build APK with Flutter
         script: |
           flutter build apk --release 
